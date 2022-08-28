@@ -1,3 +1,3 @@
 # Push & Pull at GitHub
-print("Hello, Wrodl!!")
+print("hello, Wrodl!!")
 print("Hello")
